@@ -1,5 +1,3 @@
-# tcet
-#html site
 <!DOCTYPE html>
 <html>
 <head>
